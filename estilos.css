@@ -21,6 +21,7 @@ main {
   background-color: white;
   width: 25vw;
   max-width: 500px;
+min-width: 180px;
   height: 25vh;
   max-height: 400px;
   min-height: 200px;
